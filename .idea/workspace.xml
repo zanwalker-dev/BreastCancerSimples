@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99218520-b6df-490f-a9b7-d0c3abb179ff" name="Changes" comment="feat: rede neural set">
+    <list default="true" id="99218520-b6df-490f-a9b7-d0c3abb179ff" name="Changes" comment="feat: rede neural executed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/breastCancerStudy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/breastCancerStudy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748125497356</updated>
-      <workItem from="1748125498385" duration="3868000" />
+      <workItem from="1748125498385" duration="4583000" />
     </task>
     <task id="LOCAL-00001" summary="Start study case">
       <option name="closed" value="true" />
@@ -102,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748129279932</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: rede neural executed">
+      <option name="closed" value="true" />
+      <created>1748129706712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748129706712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +123,7 @@
     <MESSAGE value="feat: installed entradas_breast and saidas_breast" />
     <MESSAGE value="feat: database modeled" />
     <MESSAGE value="feat: rede neural set" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: rede neural set" />
+    <MESSAGE value="feat: rede neural executed" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: rede neural executed" />
   </component>
 </project>
