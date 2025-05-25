@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99218520-b6df-490f-a9b7-d0c3abb179ff" name="Changes" comment="feat: done previews">
+    <list default="true" id="99218520-b6df-490f-a9b7-d0c3abb179ff" name="Changes" comment="misc.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/breastCancerStudy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/breastCancerStudy.ipynb" afterDir="false" />
     </list>
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748125497356</updated>
-      <workItem from="1748125498385" duration="5840000" />
+      <workItem from="1748125498385" duration="6774000" />
     </task>
     <task id="LOCAL-00001" summary="Start study case">
       <option name="closed" value="true" />
@@ -119,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748130487724</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: studying the weights">
+      <option name="closed" value="true" />
+      <created>1748131819823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748131819823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="misc.xml">
+      <option name="closed" value="true" />
+      <created>1748131833000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748131833000</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +149,8 @@
     <MESSAGE value="feat: rede neural set" />
     <MESSAGE value="feat: rede neural executed" />
     <MESSAGE value="feat: done previews" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: done previews" />
+    <MESSAGE value="feat: studying the weights" />
+    <MESSAGE value="misc.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="misc.xml" />
   </component>
 </project>
